@@ -1,4 +1,3 @@
-<style>
 body {
   font-family: "monospace";
 }
@@ -160,6 +159,12 @@ h3 {
 
 /* Add Portfolio links and images */
 
+#funily {
+    background-image: url("https://drive.google.com/uc?id=1KxeiTOG9SmMy2sv3ou4qmRvshE6O_zNe");
+    background-size: 100%;
+    background-origin: content;
+}
+
 #quote-generator {
   background-image: url("https://drive.google.com/uc?id=0B_8tL_zCV-EFTzJxWjI0R3JoNU0");
   background-size: 100%;
@@ -177,5 +182,3 @@ h3 {
   background-size: 100%;
   background-origin: content;
 }
-
-</style>
